@@ -1,2 +1,1 @@
-# Cculator.
-.adfd
+# Cculator
